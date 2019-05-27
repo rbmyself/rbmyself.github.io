@@ -1,10 +1,10 @@
 # Site settings
-title: Seize Blog
-SEOTitle: Seize的博客 | Seize Blog
+title: Seize's Blog
+SEOTitle: Seize的博客 | Seize's Blog
 header-img: img/post-bg-desk.jpg
 email: rbmyself@126.com
 description: "I know nothing."
-keyword: "Vince, Seize Blog, 杨紫曦的博客, yangzixi, 杨紫曦, 前端, js, react"
+keyword: "Vince, Seize's Blog, 杨紫曦的博客, yangzixi, 杨紫曦, 前端, js, react"
 url: "http://rbmyself.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/rbmyself/rbmyself.github.io.git" # you code repository
