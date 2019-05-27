@@ -7,7 +7,7 @@ description: "I know nothing."
 keyword: "Vince, Seize Blog, 杨紫曦的博客, yangzixi, 杨紫曦, 前端, js, react"
 url: "http://rbmyself.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/rbmyself/rbmyself.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
