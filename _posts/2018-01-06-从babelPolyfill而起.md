@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      从babel-polyfill的一个坑而起
+description: babel/polyfill tc39 Array.prototype.flat es2015
 subtitle:   babel-polyfill
 date:       2018-01-06
 author:     Seize
