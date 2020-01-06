@@ -24,7 +24,7 @@ tags:
 
 > This will emulate a full ES2015+ environment (no < Stage 4 proposals)
 
-所以，babel-polyfill只是包括了稳定的corejs(小于state4的没有）和regerator-runtime（这个是用来实现generator的）。
+所以，babel-polyfill只是包括了稳定的corejs(小于stage 4的没有）和regerator-runtime（这个是用来实现generator的）。
 
 ```js
 import "./noConflict";
